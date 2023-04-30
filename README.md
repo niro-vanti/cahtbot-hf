@@ -1,3 +1,14 @@
+title: ChatCSV
+emoji: 🏢
+colorFrom: purple
+colorTo: yellow
+sdk: streamlit
+sdk_version: 1.19.0
+app_file: app.py
+pinned: false
+
+
+
 # ChatBot-CSV 🤖
 
 ### An AI chatbot featuring conversational memory, designed to enable users to discuss their CSV data in a more intuitive manner. 📄
